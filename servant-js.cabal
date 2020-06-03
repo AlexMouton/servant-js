@@ -47,6 +47,7 @@ library
   exposed-modules:     Servant.JS
                        Servant.JS.Angular
                        Servant.JS.Axios
+                       Servant.JS.AxiosFlow
                        Servant.JS.Internal
                        Servant.JS.JQuery
                        Servant.JS.Vanilla
